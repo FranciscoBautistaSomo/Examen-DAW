@@ -1,7 +1,7 @@
 /**************** hoja de estilo del examen Examen 1ª Evaaluacion************/
 /*******************ESTILO GENERAL************************/
 @font-face {
-    font-family : Titulos; /*nombre que yo quiera*/
+    font-family : Titulos;
     src : url("../fonts/LazenbyCompLiquid.ttf");
 }
 @font-face {
